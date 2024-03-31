@@ -6,7 +6,10 @@ Welcome to my GitHub profile! I am a full-stack web developer with experience in
 
 ## Tools
 
-<p><img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /></p>
+<p><img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-Laragon-white?&logo=laragon&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-XAMPP-orange?&logo=xampp&logoColor=white" />
+</p>
 
 ## Skill
 
