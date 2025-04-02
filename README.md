@@ -22,10 +22,10 @@ Welcome to my GitHub profile! I am a full-stack web developer with experience in
 ## Skill
 
 - **Programming Languages**: PHP, JavaScript
-- **Framework**: CodeIgniter 4
+- **Framework**: CodeIgniter 4, Laravel
 - **Frontend Technology**: HTML, CSS, jQuery
 - **Backend Technology**: MySQL, RESTful API
-- **Responsive Development**: Bootstrap
+- **Responsive Development**: Bootstrap, Tailwindcss
 - **Version Management**: Git
 
 ## Contact
